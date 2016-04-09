@@ -1,0 +1,25 @@
+{
+  "bitwise": true,
+  "node": true,
+  "esversion": 6,
+  "curly": true,
+  "devel": true,
+  "eqeqeq": true,
+  "freeze": true,
+  "globalstrict": "true",
+  "immed": true,
+  "indent": 4,
+  "latedef": "nofunc",
+  "maxlen": 120,
+  "newcap": true,
+  "noarg": true,
+  "nonew": true,
+  "quotmark": "single",
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "validthis": true,
+  "globals": {
+    "unescape": true
+  }
+}
